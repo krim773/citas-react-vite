@@ -164,7 +164,7 @@ export const Formulario = ({pacientes, setPacientes, paciente, setPaciente}) => 
 
         <div className='mb-5'>
           <label htmlFor="sintomas" className='block text-gray-700 uppercase font-bold'>
-            Alta
+            Sintomas
           </label>
           <textarea 
             id="sintomas"
